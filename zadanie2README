@@ -1,0 +1,9 @@
+Vigenère cipher - Assembly 8086 class project
+
+input arguments: 
+	fileToCipher outputFile key 
+				or
+	-d fileToDecipher  outputFile key 
+
+
+It worked in DOSBox 0.74 installed on Windows 10 64 bit
